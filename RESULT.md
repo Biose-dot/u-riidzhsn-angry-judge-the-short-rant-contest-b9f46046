@@ -11,3 +11,8 @@ Notes:
 - Entry ditulis draf lalu direvisi di pesan kemudian (guard blank-entry ditambahkan via edit) — two-message gate terpenuhi.
 
 Status: built, pending coordinator bundle+submit
+
+- Submission ID: 01a20fbb-0231-74cd-87ae-0f822e655904
+- Bundle: /home/hatch/workspace/makefun/u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046-bundle.tar.gz
+- Status: submitted (see status output in finish-batch0516-a2.log)
+- Submitted: 2026-11-25 WIB (round 2, builder+finisher sessions)
